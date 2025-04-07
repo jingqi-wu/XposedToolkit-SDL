@@ -1,3 +1,5 @@
+[![Github Actions Build Status](https://github.com/smartdevicelink/sdl_core/actions/workflows/sdl_core_github_ci.yml/badge.svg)]  
+
 # XposedToolkit-SDL
 An Xposed based App that support several SDL App. Hooking API, network and location for security test. Most work on Glympse, could modify the location and send fake location via bluetooth.
 
